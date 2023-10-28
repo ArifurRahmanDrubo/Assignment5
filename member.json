@@ -1,0 +1,20 @@
+[
+    {
+        "UserName": "mithu",
+        "Email": "drubo206@gmail.com",
+        "Password": "81dc9bdb52d04dc20036dbd8313ed055",
+        "Role": "Admin"
+    },
+    {
+        "UserName": "arif",
+        "Email": "arif@gmail.com",
+        "Password": "81dc9bdb52d04dc20036dbd8313ed055",
+        "Role": "User"
+    },
+    {
+        "UserName": "arif",
+        "Email": "arifur@gmail.com",
+        "Password": "81dc9bdb52d04dc20036dbd8313ed055",
+        "Role": "Manager"
+    }
+]
